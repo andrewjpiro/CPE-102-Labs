@@ -1,4 +1,4 @@
-mport lab1helper
+import lab1helper
 
 def main():
    print 'Just a simple file'
